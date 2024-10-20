@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BankingEntity</string>
+
+    // Datos de la cuenta
+    <string name="account_dni">12345678X</string>
+    <string name="account_password">123456</string>
+    <string name="account_number">ES1234567890123456789012</string>
+
+    // MainActivity
+    <string name="main_img_description">Imagen del logo</string>
+    <string name="main_title">ACTIVIDAD 13</string>
+    <string name="main_subtitle">Banco online y servicios financieros</string>
+    <string name="main_login_button">LOGIN</string>
+    <string name="main_info">Pulsa LOGIN para iniciar sesión</string>
+    <string name="main_help">¿ Necesitas Ayuda ?</string>
+
+    // LoginActivity
+    <string name="login_img_description">Imagen del logo</string>
+    <string name="login_title">Acceso clientes</string>
+    <string name="login_info">Introduce los datos solicitados</string>
+    <string name="login_error">Los datos introducidos no son válidos</string>
+    <string name="login_input_hint_dni">DNI</string>
+    <string name="login_input_hint_password">Contraseña</string>
+    <string name="login_check_remember">Recuérdame</string>
+    <string name="login_button_enter">ENTRAR</string>
+    <string name="login_button_exit">SALIR</string>
+    <string name="login_help">¿ Olvidaste tu contraseña ?</string>
+
+    // ManageActivity
+    <string name="manage_welcome">BIENVENIDO</string>
+    <string name="manage_account">CUENTA</string>
+    <string name="manage_img_description">Icono de la cuenta</string>
+    <string name="manage_input_hint_amount">Importe</string>
+    <string name="manage_button_deposit">INGRESAR IMPORTE</string>
+    <string name="manage_button_extract">EXTRAER IMPORTE</string>
+    <string name="manage_button_exit">CERRAR SESION</string>
+    <string name="manage_minimum_balance">Máximo descubierto permitido -50€</string>
+    <string name="manage_deposit_success">El ingreso se ha realizado correctamente</string>
+    <string name="manage_extract_success">El extracto se ha realizado correctamente</string>
+    <string name="manage_extract_error">No se puede extrater el importe solicitado</string>
+</resources>

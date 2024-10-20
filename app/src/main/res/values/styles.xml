@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="logo">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">260dp</item>
+        <item name="android:layout_marginTop">-6dp</item>
+    </style>
+
+    <style name="image_logo">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">150dp</item>
+    </style>
+
+    <style name="button_main">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">140dp</item>
+        <item name="android:backgroundTint">@color/dark_blue</item>
+        <item name="android:fontFamily">@font/anta</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="input">
+        <item name="android:layout_width">270dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">@color/dark_blue</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <style name="button_login">
+        <item name="android:layout_width">140dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:backgroundTint">@color/dark_blue</item>
+        <item name="android:fontFamily">@font/anta</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="button_manage">
+        <item name="android:layout_width">270dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:backgroundTint">@color/dark_blue</item>
+        <item name="android:fontFamily">@font/anta</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>
